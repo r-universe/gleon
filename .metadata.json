@@ -1,5 +1,9 @@
 [
   {
+    "package": "laketemps",
+    "oncran": false
+  },
+  {
     "package": "rLakeAnalyzer",
     "oncran": true
   }
