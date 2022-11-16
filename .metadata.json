@@ -1,7 +1,11 @@
 [
   {
+    "package": "LakeMetabolizer",
+    "oncran": true
+  },
+  {
     "package": "laketemps",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rLakeAnalyzer",
