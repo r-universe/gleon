@@ -8,13 +8,13 @@
 	url = https://github.com/gleon/lakemetabolizer
 	shallow = true
 	registered = true
-[submodule "rLakeAnalyzer"]
-	path = rLakeAnalyzer
-	url = https://github.com/gleon/rlakeanalyzer
-	shallow = true
-	registered = true
 [submodule "laketemps"]
 	path = laketemps
 	url = https://github.com/gleon/laketemps
+	shallow = true
+	registered = true
+[submodule "rLakeAnalyzer"]
+	path = rLakeAnalyzer
+	url = https://github.com/gleon/rlakeanalyzer
 	shallow = true
 	registered = true
