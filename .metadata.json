@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "laketemps",
+    "package": "rLakeAnalyzer",
     "oncran": true
   },
   {
-    "package": "rLakeAnalyzer",
+    "package": "laketemps",
     "oncran": true
   }
 ]
